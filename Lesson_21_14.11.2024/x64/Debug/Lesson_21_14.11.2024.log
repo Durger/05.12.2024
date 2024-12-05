@@ -1,0 +1,4 @@
+﻿  Lesson_21_14.11.2024.cpp
+Z:\РПО\C_41\Gerasimov\Lesson_21_14.11.2024\Lesson_21_14.11.2024.cpp(9,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+Z:\РПО\C_41\Gerasimov\Lesson_21_14.11.2024\Lesson_21_14.11.2024.cpp(41,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lesson_21_14.11.2024.vcxproj -> Z:\РПО\C_41\Gerasimov\Lesson_21_14.11.2024\x64\Debug\Lesson_21_14.11.2024.exe
